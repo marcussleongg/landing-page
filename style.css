@@ -45,5 +45,11 @@ a {
 }
 
 .text-one button {
-    color: blue;
+    background-color: #3882f6;
+    border-radius: 5px;
+    border: 0;
+    font-size: 15px;
+    font-weight: bold;
+    color: #e5e7eb;
+    padding: 5px 25px;
 }
