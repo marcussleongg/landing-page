@@ -77,3 +77,20 @@ a {
     margin: 0;
     padding: 0;
 }
+
+.three {
+    background-color: #e5e7eb;
+    padding: 100px 250px;
+}
+
+.quote {
+    font-size: 30px;
+}
+
+.quoted {
+    font-weight: bold;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 40px;
+    margin-top: -20px;
+}
