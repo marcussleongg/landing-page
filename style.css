@@ -53,3 +53,27 @@ a {
     color: #e5e7eb;
     padding: 5px 25px;
 }
+
+.two {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.two h2 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
+
+.content-two {
+    display: flex;
+    gap: 30px;
+}
+
+.service-one img, .service-two img, .service-three img, .service-four img {
+    border: 3px solid #303130;
+    border-radius: 10px;
+    margin: 0;
+    padding: 0;
+}
